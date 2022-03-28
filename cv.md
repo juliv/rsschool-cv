@@ -18,6 +18,7 @@ _In progress..._
 - Javascript ES6 (VueJS, ReactJS)
 - PHP (Drupal, Laravel)
 - Git, GitHub
+- API: VK, SberBank, CloudPayments, YandexMaps
 - Photoshop
 
 ### Code example
@@ -39,6 +40,12 @@ function duplicateEncode(word){
 ### Courses
 
 - RS Schools Course «JavaScript/Front-end. Stage 1» (_in progress_)
+
+### Works
+
+- https://store.sony.ru/ (html+css based on Bootstrap) (frontend)
+- https://fitnessprovod.com/ (Drupal8+Commerce2) (frontend, backend)
+- https://royaltent.me/ (Laravel+Vue) (frontend, backend)
 
 ### Languages
 
